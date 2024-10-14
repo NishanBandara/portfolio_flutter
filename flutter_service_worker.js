@@ -10,7 +10,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "69d9f3850ea0267572fa657eb81c08df
 "assets/assets/animation/yoga.json": "820fe3f1820431901ca5a62d9c276e00",
 "assets/assets/back.jpeg": "89485a18d2912ffafff949d53113ad0e",
 "assets/assets/email.png": "5eb3c4b86aafbee72b8c471b29413a50",
-"assets/assets/habit.jpg": "307da72e611a6509cfa6314df553c753",
+"assets/assets/habit.png": "307da72e611a6509cfa6314df553c753",
 "assets/assets/language.jpg": "d47c62497844b40421a5f55e7ae3a9a8",
 "assets/assets/map.png": "9cc090022ae31337336d2024160714b8",
 "assets/assets/phone.png": "45903a1ffa9ede882171aca9f71c4c29",
