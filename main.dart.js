@@ -69040,7 +69040,7 @@ L(a){var s=A.adJ(1000,a),r=A.adJ(760,a)
 return new A.hm(A.adJ(A.aJ(a,null,t.w).w.a.a*0.8,a),r,s,null)}}
 A.a9C.prototype={
 $2(a,b){var s,r=null,q=A.kv(B.i,24,r,1.3),p=this.a,o=t.w,n=A.aJ(a,r,o).w.a.a<800?B.a2:B.ac,m=A.aJ(a,r,o).w.a.a<800?0:3
-m=A.kq(A.acA("assets/animation/coder.json",500),m)
+m=A.kq(A.acA("assets/animation/yoga.json",500),m)
 o=A.aJ(a,r,o).w.a.a<800?0:4
 s=t.p
 return A.kq(A.mH(B.aA,r,r,r,r,A.UB(A.a([m,B.ib,A.kq(A.fW(A.a([A.df('Hello! "I am a Flutter Mobile Developer with 4+ years of experience in software engineering, including 3 years of focused expertise in the Flutter framework.\n\n',r,r,q,r),A.df("I am a motivated and enthusiastic engineer with a strong track record of enhancing software performance, conducting thorough testing, updating existing software, and implementing new software functionalities. I possess the ability to consistently deliver projects on schedule, leveraging my proficiency in writing clean and efficient code.\n\n",r,r,q,r),B.bh],s),B.b8,B.d_,B.Q),o)],s),B.b8,n,r,B.V,B.Q,r,r,B.aP),!1,r,r,!1,1,r,r,r,p,r,r,p,r,!0,!1),1)},
@@ -69129,7 +69129,7 @@ $S:0}
 A.Hi.prototype={
 L(a){return new A.hm(this.ys(A.aJ(a,null,t.w).w.a.a*0.8,a),this.ys(760,a),this.ys(1000,a),null)},
 ys(a,b){var s,r,q=null,p=t.w,o=A.aJ(b,q,p).w.a.a<800?B.a2:B.ac,n=A.aJ(b,q,p).w.a.a<800?0:2
-n=A.kq(A.acA("assets/animation/skills.json",500),n)
+n=A.kq(A.acA("assets/animation/yoga.json",q),n)
 p=A.aJ(b,q,p).w.a.a<800?0:4
 s=t.oQ
 r=t.p
@@ -69152,7 +69152,7 @@ $2(a,b){var s=null,r="Download CV",q=this.b,p=t.w,o=A.aJ(a,s,p).w.a.a<800?B.a2:B
 i=B.e.a2(2e5*i.gp(i))
 n=A.kq(A.fW(A.a([B.IU,B.Nz,B.eL,B.Nv,k,B.eL,B.Gf,B.IV,new A.Cv(new A.a9i(),s,s,s,j,B.A,s,!1,s,A.afa(A.a([new A.rB(this.a.d,r,B.a4,B.Mr,new A.aO(i),new A.f8(r))],m),!1),s)],l),B.b8,B.V,B.hy),n)
 p=A.aJ(a,s,p).w.a.a<800?0:3
-return A.mH(B.aA,s,s,s,s,A.UB(A.a([n,B.ib,A.kq(A.acA("assets/animation/yoga.json",s),p)],l),B.b8,o,s,B.V,B.Q,s,s,B.aP),!1,s,s,!1,1,s,s,s,q,s,s,q,s,!0,!1)},
+return A.mH(B.aA,s,s,s,s,A.UB(A.a([n,B.ib,A.kq(A.acA("assets/animation/skills.json",s),p)],l),B.b8,o,s,B.V,B.Q,s,s,B.aP),!1,s,s,!1,1,s,s,s,q,s,s,q,s,!0,!1)},
 $S:403}
 A.a9i.prototype={
 $0(){},
