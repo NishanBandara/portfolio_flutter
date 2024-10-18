@@ -16,7 +16,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "69d9f3850ea0267572fa657eb81c08df
 "assets/assets/phone.png": "45903a1ffa9ede882171aca9f71c4c29",
 "assets/assets/shopping.png": "9ac2d093badc47cc2e647745bfbf4af3",
 "assets/assets/whatsapp.png": "426617ad28567da23a2346566d84b5a6",
-"assets/assets/workout.png": "a64cdc633aa35dcd13bcbca9e24af60e",
+"assets/assets/workout.jpg": "a64cdc633aa35dcd13bcbca9e24af60e",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
 "assets/NOTICES": "b64fc39c393ea0744ed161868b2f71df",
